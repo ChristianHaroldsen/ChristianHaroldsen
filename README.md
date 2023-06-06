@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ChristianHaroldsen
 - 👀 I’m interested in microcontrollers and using code to interact with the physical world.
-- 🌱 I’m currently learning good programming practices and reviewing basics from Harvard's CS50x. I am focused on improving in C.
-- 💞️ I’m looking to collaborate on something that will get me experience working with others.
+- 🌱 I’m currently working to create an unmanned surface vessel (USV) to find the deepest point in Utah Lake.
 - 📫 How to reach me: send me an email at ChristianHaroldsen@gmail.com
 
 <!---
