@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChristianHaroldsen
 - 👀 I’m interested in microcontrollers and using code to interact with the physical world.
-- 🌱 I’m currently working to create an unmanned surface vessel (USV) to find the deepest point in Utah Lake.
+- 🌱 I’m currently working on: Some sort of project. Check out my website for write-ups after I'm done with them!
 - 📫 How to reach me: send me an email at ChristianHaroldsen@gmail.com
 
 <!---
